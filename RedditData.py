@@ -29,8 +29,6 @@ reddit = praw.Reddit(user_agent='',
                   username='',
                   password='')
 
-# cmts = list(reddit.redditor('Nathuphoon').comments.new(limit=None))
-# print(cmts)
 
 currdir = path.dirname(__file__)
 
