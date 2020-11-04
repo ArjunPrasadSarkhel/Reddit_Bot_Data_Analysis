@@ -15,6 +15,14 @@
 
 # The result images, the bot will reply with an imgur link!!
 
+### Using the bot to check your own stats:
+
+### ![alt text](https://prnt.sc/vdewgt)
+
+### Using the bot to check another users stats:
+
+### ![alt text](https://prnt.sc/vdex40)
+
 ### Most Used Words:-
 ### ![alt text](https://i.imgur.com/yagzMFd.png)
 
