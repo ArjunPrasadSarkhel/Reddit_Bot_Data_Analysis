@@ -26,3 +26,6 @@
 
 ### Sentiment Analysis
 ### ![alt text](https://i.imgur.com/fQvjcW6.png)
+
+
+### Feel free to use the bot, i want to credit https://github.com/akashsara, i took some reference from his code plus got the idea of imgur api implementation.
