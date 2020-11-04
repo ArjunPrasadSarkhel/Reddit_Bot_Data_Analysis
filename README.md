@@ -17,11 +17,11 @@
 
 ### Using the bot to check your own stats:
 
-### ![alt text](https://prnt.sc/vdewgt)
+### ![alt text](https://i.imgur.com/pMG3y6k.png)
 
 ### Using the bot to check another users stats:
 
-### ![alt text](https://prnt.sc/vdex40)
+### ![alt text](https://i.imgur.com/BsAAlD4.png)
 
 ### Most Used Words:-
 ### ![alt text](https://i.imgur.com/yagzMFd.png)
