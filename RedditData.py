@@ -23,14 +23,12 @@ from os import path
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from random import choice
 from operator import itemgetter
-reddit = praw.Reddit(user_agent='test-script',
-                  client_id='En5dWl9v8IhrQA',
-                  client_secret='m7GxwQGjBK8GIjHK4b5s1275Yi0',
-                  username='HeavyIncomeTax',
-                  password='maaaaice623')
+reddit = praw.Reddit(user_agent='',
+                  client_id='',
+                  client_secret='',
+                  username='',
+                  password='')
 
-# cmts = list(reddit.redditor('Nathuphoon').comments.new(limit=None))
-# print(cmts)
 
 currdir = path.dirname(__file__)
 
