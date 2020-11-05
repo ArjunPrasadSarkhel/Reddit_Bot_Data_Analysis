@@ -1,6 +1,5 @@
 # Reddit_Bot_Data_Analysis
 
-<<<<<<< HEAD
 # In-Brief
 A bot when prompted, will show graphs about user-activity and information on reddit.
 =======
@@ -14,7 +13,7 @@ I'm planning to add some more features, so i'm open to suggestions and if you li
 
 ## In-Brief
 ### A bot when prompted, will show graphs about user-activity and information on reddit.
->>>>>>> 9fb951aaa9498f21eab192eed9a8b444c9bab4e5
+
 
 # About
  Hey all!! I made a reddit bot which uses Reddits own api called PRAW and imgurs api, when prompted will show your reddit details plus your reddit stats in graphs, i.e it includes your most used words, the top 10 subreddits where you had spent most of your time, made a word-cloud which shows your most used words, plus a sentiment analysis graph of your comments!!
@@ -47,9 +46,7 @@ The bot is currently deployed on Heroku and runs with a 5min cooldown after runn
 ![alt text](https://i.imgur.com/fQvjcW6.png)
 
 
-<<<<<<< HEAD
-Feel free to use the bot, i want to credit https://github.com/akashsara, i took some reference from his code plus got the idea of imgur api implementation.
-=======
 
-### Feel free to use the bot, i want to credit https://github.com/akashsara, i took some reference from his code plus got the idea of imgur api implementation.
->>>>>>> 9fb951aaa9498f21eab192eed9a8b444c9bab4e5
+
+ Feel free to use the bot, i want to credit https://github.com/akashsara, i took some reference from his code plus got the idea of imgur api implementation.
+
