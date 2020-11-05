@@ -199,7 +199,7 @@ Also here are is a graph which shows where you spend the majority of your time! 
 I also collected most used words and displayed it! [Word cloud](%s)
 Plus i made a sentiment analysis chart [Click here to check out that chart.](%s)
 \n\n---
-[^(Message my Master)](https://www.reddit.com/message/compose?to=Nathuphoon) ^| [^(Source Code)](https://github.com/ArjunPrasadSarkhel) ^| [^(Credits for inspiration~)](https://github.com/akashsara)
+[^(Message my Master)](https://www.reddit.com/message/compose?to=Nathuphoon) ^| [^(Source Code)](https://github.com/ArjunPrasadSarkhel/Reddit_Bot_Data_Analysis) ^| [^(Credits for inspiration~)](https://github.com/akashsara)
     ''' %(username, noComments, noPosts, noLinks, noComments + noPosts, frequencyLink, activityLink, wordcloudLink, sentimentLink))
     return message
 
