@@ -219,7 +219,7 @@ def runBot(reddit):
                     print(len(comment.body))
                     if(len(comment.body)>13):
                         # print(type(comment.body))
-                        print("insdie")
+                        print("inside")
                         invalid_user_check=0
                         commentbodyauthor= comment.body
                         commentbodyauthor = commentbodyauthor.lower()
