@@ -1,8 +1,5 @@
 # Reddit_Bot_Data_Analysis
 
-# In-Brief
-A bot when prompted, will show graphs about user-activity and information on reddit.
-=======
 Hey all!! I made a reddit bot which will show your reddit details plus your reddit stats in graphs, i.e it includes your most used words, the top 10 subreddits where you had spent most of your time, made a word-cloud which shows your most used words, plus a sentiment analysis graph of your comments!!
 The bot is currently deployed on Heroku and runs with a 5min cooldown after running through the list of subreddits i provided it. 
 How to use the bot
@@ -11,7 +8,7 @@ How to use the bot
 I'm planning to add some more features, so i'm open to suggestions and if you like this feel free to leave a star on my github project, i would be gladfull.  
 
 
-## In-Brief
+# In-Brief
 ### A bot when prompted, will show graphs about user-activity and information on reddit.
 
 
