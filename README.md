@@ -38,5 +38,5 @@ The bot is currently deployed on Heroku and runs with a 5min cooldown after runn
 
 
 
- Feel free to use the bot, i want to credit https://github.com/akashsara, i took some reference from his code plus got the idea of imgur api implementation.
+ Feel free to use the bot, i want to credit https://github.com/akashsara, I took some reference from his code plus got the idea of imgur api implementation.
 
