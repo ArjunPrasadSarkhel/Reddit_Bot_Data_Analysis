@@ -12,7 +12,7 @@ The bot is currently deployed on Heroku and runs with a 5min cooldown after runn
 *  Enter your client id, client password, your reddit username & password on line 26.
 *  After that enter your subreddit list where the bot will be active.
 *  Then you just need to write **!Givestats**, this will show the stats of your profile
-*  For other profile you need to write **!Givestats Username**, here Username is the reddit username of the person, you are trying to search. For eg: If i want to search a name Abcd, i'll write !Givestats Abcd.
+*  For other profile you need to write **!Givestats Username**, here Username is the reddit username of the person, you are trying to search. For eg: If i want to search a name Abcd, I'll write !Givestats Abcd.
 * The result images, the bot will reply with an imgur link!!
 
 # Using the bot to check your own stats:
