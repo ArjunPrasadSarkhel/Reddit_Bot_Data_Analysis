@@ -6,7 +6,7 @@
 
 # About
  Hey all!! I made a reddit bot which uses Reddits own api called PRAW and imgurs api, when prompted will show your reddit details plus your reddit stats in graphs, i.e it includes your most used words, the top 10 subreddits where you had spent most of your time, made a word-cloud which shows your most used words, plus a sentiment analysis graph of your comments!!
-The bot is currently deployed on Heroku and runs with a 5min cooldown after running through the list of subreddits i provided it.
+The bot is currently deployed on Heroku and runs with a 5min cooldown after running through the list of subreddits I provided it.
 
 # How to use it?
 *  Enter your client id, client password, your reddit username & password on line 26.
